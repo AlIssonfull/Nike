@@ -118,6 +118,7 @@ header{
 }
 
 .area1-text h2{
+    text-align: left;
     font-size: 80px;
     line-height: 80px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
